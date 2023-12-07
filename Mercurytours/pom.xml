@@ -47,7 +47,9 @@
 			<artifactId>exec-maven-plugin</artifactId>
 			<version>3.1.0</version>
 			<configuration>
-				<mainClass>second.project.HelloWorld</mainClass>
+				<mainClass>test.LoginTest</mainClass>
+				<mainClass>test.FlightTest</mainClass>
+				<mainClass>test.RegisterTest</mainClass>
 			</configuration>
 		</plugin>
 	  </plugins>
